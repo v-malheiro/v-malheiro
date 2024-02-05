@@ -16,8 +16,16 @@
 <!-- Highligthed Name -->
 <h1 align="center"> Victor Hugo Enes Malheiro <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> ! </h1>
 
+<!-- Resume -->
+<p align="center"> Hello! I'm Victor Hugo Enes Malheiro, a master's student in the <a href="https://sites.usp.br/giimus/pt/">GIIMUS</a> at the <a href="https://www5.usp.br/">University of São Paulo (USP) 🇧🇷</a>. My passions lie in topics like Biomedical Engineering, Computer Vision and Cybersecurity. </p>
+<br>
+
 <!-- About Me -->
-## :man_technologist: About Me :
+## :mortar_board: About Me :
+
+- **Academic Background**:
+  - Bachelor's in Biomedical Informatics from Universidade de São Paulo (USP - Ribeirao Preto).
+  - 
 <!--
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
